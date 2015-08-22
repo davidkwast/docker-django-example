@@ -1,3 +1,3 @@
 # docker-django-example
 
-Just a Django docker image build example
+Just a Django Docker image build example
